@@ -1,7 +1,7 @@
 /**
- * Irri2 Firmware
+ * Eli1 Firmware
  *
- * Copyright (C) 2014 Irri2Firmware [https://github.com/ghumphr1/Irri2]
+ * Copyright (C) 2014 Eli1Firmware [https://github.com/ghumphr1/Eli1]
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
